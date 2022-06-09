@@ -1,0 +1,15 @@
+IndentWidth: 4
+AccessModifierOffset: -4
+BasedOnStyle: LLVM
+AllowShortIfStatementsOnASingleLine: false
+BinPackParameters: false
+BinPackArguments: false
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+AllowShortFunctionsOnASingleLine: Empty
+PointerAlignment: Right
+AlwaysBreakTemplateDeclarations: true
+IndentPPDirectives: AfterHash
+AlignOperands: Align
+AlignTrailingComments: true
